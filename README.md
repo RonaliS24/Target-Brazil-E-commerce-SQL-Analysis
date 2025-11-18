@@ -7,14 +7,14 @@
 Dataset: https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb?usp=sharing
 
 The data is available in 8 different csv files:
-customers.csv
-geolocation.csv
-order_items.csv
-payments.csv
-reviews.csv
-orders.csv
-products.csv
-sellers.csv
+- customers.csv
+- geolocation.csv
+- order_items.csv
+- payments.csv
+- reviews.csv
+- orders.csv
+- products.csv
+- sellers.csv
 
 # Dataset Schema
-
+https://github.com/RonaliS24/Target-Brazil-E-commerce-SQL-Analysis/blob/main/Screenshot%202025-11-18%20144634.png
