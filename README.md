@@ -17,4 +17,4 @@ The data is available in 8 different csv files:
 - sellers.csv
 
 # Dataset Schema
-https://github.com/RonaliS24/Target-Brazil-E-commerce-SQL-Analysis/blob/main/Screenshot%202025-11-18%20144634.png
+![img_alt](https://github.com/RonaliS24/Target-Brazil-E-commerce-SQL-Analysis/blob/main/Target%20Dataset%20schema.png?raw=true)
